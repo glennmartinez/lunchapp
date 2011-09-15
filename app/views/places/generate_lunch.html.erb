@@ -1,0 +1,22 @@
+
+<h1> .....And Today's Randomizer Lunch Generated Location is...</h1>
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Title:</b>
+  <h2><%= @random_place.title %> </h2>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @random_place.description %>
+</p>
+
+<p>
+  <b>Type:</b>
+  <%= @random_place.type %>
+</p>
+
+
+<%= link_to 'Edit', edit_place_path(@random_place) %> |
+<%= link_to 'Back', places_path %>
