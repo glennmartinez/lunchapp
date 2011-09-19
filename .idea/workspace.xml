@@ -81,7 +81,7 @@
       <file leaf-file-name="schema.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/schema.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="23" column="0" selection-start="965" selection-end="965" vertical-scroll-proportion="0.5019255">
               <folding />
             </state>
           </provider>
@@ -571,7 +571,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="23" column="0" selection-start="965" selection-end="965" vertical-scroll-proportion="0.5019255">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
